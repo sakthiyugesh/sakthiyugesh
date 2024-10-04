@@ -52,12 +52,11 @@
 
 ![Sakthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakthiyugesh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthiyugesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Connect with me
 - [Instagram](https://instagram.com/yourprofile) (5K+ Followers)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [YouTube](https://www.linkedin.com/in/yourprofile/)
+- [YouTube](https://www.linkedin.com/in/yourprofile/) (2k Subscribers)
+- [WhatsApp](https://wa.me/9042503770)
 
 
 
