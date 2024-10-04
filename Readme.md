@@ -57,7 +57,7 @@
 ## 🔗 Connect with me
 - [Instagram](https://instagram.com/yourprofile) (5K+ Followers)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Yo](https://www.linkedin.com/in/yourprofile/)
+- [YouTube](https://www.linkedin.com/in/yourprofile/)
 
 
 
