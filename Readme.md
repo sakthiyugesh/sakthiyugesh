@@ -1,6 +1,6 @@
 # Hi there, I'm ***Sakthi!*** 👋
 
-![Profile Banner](https://www.seekpng.com/png/detail/192-1923339_github-kaggle-linkedin-microsoft-reportedly-acquires-github.png)
+![Profile Banner]("https://images.app.goo.gl/9qLSH3Ls8tQte4ZJ7")
 
 
 - 🌍 Based in India 🇮🇳
