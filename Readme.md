@@ -1,26 +1,17 @@
 # Hi there, I'm ***Sakthi!*** 👋
 
-![Profile Banner]("https://images.app.goo.gl/9qLSH3Ls8tQte4ZJ7")
-
-
 - 🌍 Based in India 🇮🇳
-- 💻 Full Stack Developer with over 9 months of experience.
-- 💡 Specializing in **Django**, **React**, **Elasticsearch**, **SQL** and **JavaScript**
+- 💻 Full Stack Developer with over 1 months of experience.
+- 💡 Specializing in **Django**, **React**, **Elasticsearch**, **SQL,** **AWS** and **JavaScript.**
 - 🎨 Passionate about creating exceptional UI/UX with advanced CSS animations, responsive designs, and seamless user interactions
-- 🔭 Currently exploring AI-powered solutions and full-stack web development for scalable and performant applications.
-- 💬 Let's talk about **Python**, **JavaScript**, **Django**, **React**, and **Full Stack Development**.
+- 💬 Let's talk about **Python**, **JavaScript**, **Django**, **React**, **cloud services** and **Full Stack Development**.
 
 ## 🚀 Current Projects
 
-- 🛒 **E-commerce Platform**: Built with **Django Backend** and integrated with **Elasticsearch** for advanced filtering and search functionality.
-- 🔍 **Custom Search Engine**: A scalable search solution using **Elasticsearch** to power fast and accurate search results across large datasets.
-- 📓 **Notes App**: A feature-rich **React and Django** application for creating, organizing, and managing personal notes.
-- 🖼 **Image Search Engine**: Powered by **Elasticsearch** for indexing and retrieving images based on metadata and content.
-- 📷 **Image Identifier**: Utilizes **MobileNet** for identifying and classifying images, built with **React** and integrated with **TensorFlow.js**.
-- 📝 **Blog Website**: A fully functional blog platform created with **React** on the frontend and **Django** on the backend, with dynamic content management and user authentication.
-- 🦖 **Dino Jump Game**: A web-based arcade game built in **JavaScript** featuring custom obstacles and user-friendly controls.
-- ☕ **Coffee Ordering App**: A simple yet effective **React** application for ordering and managing coffee selections.
-- 🌟 **Portfolio Website**: A stunning, interactive portfolio built with cutting-edge CSS animations and parallax effects to showcase my skills and projects.
+- 🛒 **E-commerce Platform.**
+- 🔍 **Custom Search Engine using Elasticsearch.**
+- 📓 **Robust Authentiction Sysyem.**
+- 🖼 **And Many more..**
 
 
 ## 🔧 Tech Stack
