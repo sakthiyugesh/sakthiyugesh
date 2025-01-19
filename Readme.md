@@ -1,7 +1,7 @@
 # Hi there, I'm ***Sakthi!*** 👋
 
 - 🌍 Based in India 🇮🇳
-- 💻 Full Stack Developer with over 1 months of experience.
+- 💻 Full Stack Developer with over 1 year of experience.
 - 💡 Specializing in **Django**, **React**, **Elasticsearch**, **SQL,** **AWS** and **JavaScript.**
 - 🎨 Passionate about creating exceptional UI/UX with advanced CSS animations, responsive designs, and seamless user interactions
 - 💬 Let's talk about **Python**, **JavaScript**, **Django**, **React**, **cloud services** and **Full Stack Development**.
