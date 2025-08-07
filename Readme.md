@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Sakthi!
 
-- 🌍 Based in India  
-- 🤖 AI/ML Enthusiast | 💻 Full Stack Developer | ☁️ DevOps Learner  
-- 🧠 I love building intelligent systems with real-world impact  
-- 🚀 Currently working on projects that combine **Machine Learning**, **Web Development**, and **Cloud Deployment**
+I'm an AI/ML enthusiast and full stack developer from India 🇮🇳, passionate about building intelligent systems that solve real-world problems. My core focus is on Machine Learning and Deep Learning, where I work on computer vision, natural language processing, and scientific applications of AI. Alongside this, I have solid experience developing full stack web applications using Django, React, and cloud tools like AWS.
 
 ---
 
