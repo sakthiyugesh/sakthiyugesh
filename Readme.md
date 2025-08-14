@@ -6,22 +6,22 @@ I'm an AI/ML enthusiast and full stack developer from India 🇮🇳, passionate
 
 ## 🔬 My Core Focus: AI/ML & Deep Learning
 
-- 🧠 Neural Networks – CNN, LSTM, Autoencoders  
-- 🖼 Computer Vision – Image Classification, Object Detection (YOLOv5, OpenCV)  
-- ✍️ Natural Language Processing – Seq2Seq, Attention, Transformers, Translation  
-- ⚗️ Scientific AI – AI in Chemistry & Material Science  
-- 📊 Classical ML – SVM, Random Forest, KMeans, PCA, AutoML, TPOT  
-- 🚀 Deployment – Streamlit, FastAPI, Hugging Face Spaces  
+-  Neural Networks – CNN, LSTM, Autoencoders  
+-  Computer Vision – Image Classification, Object Detection (YOLOv5, OpenCV)  
+-  Natural Language Processing – Seq2Seq, Attention, Transformers, Translation  
+-  Scientific AI – AI in Chemistry & Material Science  
+-  Classical ML – SVM, Random Forest, KMeans, PCA, AutoML, TPOT  
+-  Deployment – Streamlit, FastAPI, Hugging Face Spaces  
 
 ---
 
 ## 🛠️ Also Skilled In
 
-- 🌐 **Frontend** – React, HTML5, CSS3, JavaScript, Bootstrap  
-- 🛠️ **Backend** – Django, DRF, Node.js, PostgreSQL, MySQL  
-- 🔍 **Search** – Elasticsearch for custom intelligent search systems  
-- ☁️ **DevOps** – Basic AWS (EC2, RDS, S3), GitHub Actions  
-- 🧩 **Tools** – Git, VSCode, Jupyter, Postman  
+-  **Frontend** – React, HTML5, CSS3, JavaScript, Bootstrap  
+-  **Backend** – Django, DRF, Node.js, PostgreSQL, MySQL  
+-  **Search** – Elasticsearch for custom intelligent search systems  
+-  **DevOps** – Basic AWS (EC2, RDS, S3), GitHub Actions  
+-  **Tools** – Git, VSCode, Jupyter, Postman  
 
 ---
 
@@ -34,9 +34,8 @@ I'm an AI/ML enthusiast and full stack developer from India 🇮🇳, passionate
 ## 🔗 Let's Connect
 
 - 🌐 [Live Projects – Streamlit](https://sakthi.streamlit.app)  
-- 📸 [Instagram (5K+ Followers)](https://instagram.com/yourprofile)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 💬 [WhatsApp](https://wa.me/9042503770)  
+- 📸 [Instagram](https://instagram.com/heyimsakthi_)   
+- 💬 [WhatsApp](https://wa.me/+918608087301)  
 
 ---
 
